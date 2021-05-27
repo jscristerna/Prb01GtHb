@@ -1,8 +1,6 @@
-# Prb01GtHb
+# testrepo
 
-## yo estoy editando este archivo
+## Editing the file
 
-es una rebaja en este repositorio
-
-## ok
+It's a markdown in this repository
 
