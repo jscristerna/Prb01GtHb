@@ -1,2 +1,2 @@
 # Muestra la salida
-Print("New Phyton file")
+print("New Phyton file")
